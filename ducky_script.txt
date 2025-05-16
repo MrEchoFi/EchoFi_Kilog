@@ -1,0 +1,8 @@
+REM Sample Ducky Script
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 500
+STRING Hello from Ducky Script!
+ENTER
