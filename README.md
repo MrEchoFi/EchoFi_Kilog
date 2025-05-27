@@ -13,3 +13,22 @@
 
   📫 How to reach me **tanjibisham777@gmail.com & tanjibisham888@gmail.com**
 </div>
+
+# Video for better understanding:
+
+https://github.com/user-attachments/assets/998218ef-5d68-4794-b4f2-eade1e157ea3
+
+
+
+ </div>
+
+ # Note:
+  <p>
+      this keylogger contains ducky script and by using ducky script or create ducky script, anyone can inject or install malware in victims device. 
+ Btw this is a python file based keylogger . if u want to experience in real life by phishing then u can turn this python based keylogger file into exe file. But test this in lab environment.
+  </p>
+
+# Installation:
+
+ 
+     
