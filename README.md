@@ -7,7 +7,7 @@
   <h1>EchoFi_Kilog v1</h1>
    
   <p>
-   Custom Server based Keylogger
+   Custom Server based Keylogger & also contains Ducky Scripts
   </p>
 
 
@@ -29,6 +29,28 @@ https://github.com/user-attachments/assets/998218ef-5d68-4794-b4f2-eade1e157ea3
   </p>
 
 # Installation:
+           ## install git, 
+              sudo apt install git
+              
+          ## clone the repo,
+              git clone https://github.com/MrEchoFi/EchoFi_Kilog.git
 
- 
-     
+           ## change the directory
+               cd EchoFi_Kilog
+
+          ## Now run the server,
+              python server.py
+
+          ## run the keylogger file and experience the output,
+
+              python keylogger.py 
+
+          ## Now see the stored data or info or keystrokes,
+
+             cat keystrokes.log 
+             
+             or, directly onek keystrokes.log in your vs code or others or directly as txt file.
+
+         // i m using a example of ducky script to show you how it works! || you can change the ducky scripts. if u want to know how to write your own new custom ducky                 scripts then knock me in this---> tanjibisham777@gmail.com    
+              
+ Happy HackNight!!!!!! 
